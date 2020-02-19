@@ -1,1 +1,1 @@
-18praveenb.github.io/index.html
+Built with `make.zsh`
