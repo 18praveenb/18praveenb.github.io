@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/*
+.bundle
+trash/*
+.jekyll-cache/*
+temp/*
+*.temp
